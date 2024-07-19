@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Springboot 
 - 💞️ I’m looking to collaborate on hackathons, security querries and backend related projects 
 - 📫 You can reach me via LinkedIn : www.linkedin.com/in/vaibhav-shukla-730226266
-- 😄 Pronouns: Man
 - ⚡ Fun fact: I can give you therapy sessions while being depressed. 
 
 <!---
